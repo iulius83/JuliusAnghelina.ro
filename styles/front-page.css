@@ -1,0 +1,98 @@
+body {
+    margin: 0;
+}
+
+/* front selector */
+*, *:before, *:after {
+    box-sizing: inherit;
+}
+
+.panels {
+    min-height: 100vh;
+    overflow: hidden;
+    display: flex;
+}
+.panel {
+    color:white;
+    text-shadow: 3px 3px 50px black;
+    text-align: center;
+    transition:
+        font-size 1s cubic-bezier(1, -0.3, 0.5, 1),
+        flex 1s cubic-bezier(1, -0.3, 0.5, 1);
+    font-size: 1.3rem;
+    background-size: cover;
+    background-position: center;
+    flex: 1;
+    display: flex;
+    flex-direction: column;
+    cursor: default;
+    filter: grayscale(50%);
+}
+
+.design { background-image: url(../images/front-page/3d.jpg) }
+.javascript { background-image:url(../images/front-page/code.jpg) }
+.photography { background-image:url(../images/front-page/world.jpg) }
+
+/* Flex Items */
+.panel > * {
+    margin: 0;
+    width: 100%;
+    transition: transform 0.5s ease-in;
+    flex: 1 0 auto;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.panel:hover {
+    filter: none;
+}
+
+.panel > *:first-child { transform: translateY(-100%); }
+
+.panel.open-active > *:first-child { transform: translateY(0); }
+
+.panel > *:last-child { transform: translateY(100%); }
+
+.panel.open-active > *:last-child { transform: translateY(0); }
+
+.panel p {
+    font-family: 'Teko', sans-serif;
+    text-shadow: 0 0 4px rgba(0, 0, 0, 0.72), 0 0 14px rgba(0, 0, 0, 0.45);
+}
+.panel .main-title {
+    font-size: 4rem;
+}
+.panel.open {
+    flex: 3;
+    font-size: 2.5rem;
+}
+.open-active .main-title:hover {
+    color: orange;
+    transform: scale(1.3);
+    cursor: pointer;
+}
+
+@media only screen and (max-width: 700px) {
+    .panel .main-title {
+        font-size: 2.5rem;
+    }
+    .panel.open {
+        flex: 2;
+        font-size: 1rem;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .panels {
+        flex-direction: column;
+    }
+    .panel > *:first-child { display: none; }
+
+    .panel.open-active > *:first-child { display: none; }
+
+    .panel > *:last-child { display: none; }
+
+    .panel.open-active > *:last-child { display: none; }
+
+}

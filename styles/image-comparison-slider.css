@@ -1,0 +1,78 @@
+img {
+  width: 100%;
+  vertical-align: middle;
+}
+
+.image-spliter, img, .mover {
+  overflow: hidden;
+  -webkit-touch-callout: none;
+  -webkit-user-select: none;
+  -khtml-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+.image-spliter {
+  position: relative;
+  width: 34vw;
+  margin: 10px;
+  box-shadow: 1px 1px 10px var(--shadowTransp);
+  border: 2px solid var(--javascript);
+  transition: all .3s ease-in;
+}
+
+.image-spliter:hover {
+  box-shadow: 3px 3px 20px var(--shadowTransp);
+}
+
+.img-left {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+
+.mover {
+  position: absolute;
+  width: 200px;
+  height: 100%;
+  top: 0;
+  left: 0;
+  z-index: 10;
+}
+
+.mover:before, .mover:after {
+  position: absolute;
+  left: 50%;
+  content: "";
+  background: var(--javascript);
+  cursor: -webkit-grab;
+  cursor: grab;
+}
+
+.mover:before {
+  top: 0;
+  transform: translateX(-50%);
+  width: 2px;
+  height: 100%;
+}
+
+.mover:after {
+  top: 50%;
+  transform: translate(-50%, -50%);
+  width: 30px;
+  height: 15%;
+  border-radius: 15px;
+}
+
+@media only screen and (max-width: 1000px) {
+  .image-spliter {
+    width: 45vw;
+  }
+}
+
+@media only screen and (max-width: 700px) {
+  .image-spliter {
+    width: 100%;
+  }
+}
