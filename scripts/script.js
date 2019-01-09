@@ -17,19 +17,13 @@ panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
 
 function addEvent(filename) {
     let pageRedirect = () => window.location.href = `${filename}.php`;
-    let link = document.querySelector('.open-active .main-title');
-
-    if (link) {
-        link.addEventListener('click', pageRedirect);
-    } else {
-        window.location.href = "index.php";
-    }
+    document.querySelector('.open-active .main-title').addEventListener('click', pageRedirect);
 }
 
 // generate the header -------------
 function whereAmI() {
     let header = document.getElementById('header');
-    let id = window.location.toString().split('site/')[1].split('.')[0];
+    let id = window.location.toString().split('ro/')[1].split('.')[0];
     header.classList.add(id);
 
     if (id === 'design') {
@@ -111,7 +105,7 @@ function generateImages(noOfImages, category) {
         generatedBody += `
         <div class="mySlides fade">
             <div class="numbertext">${category} - ${i} / ${noOfImages}</div>
-            <img src="../images/photography/${category}/photographer-${category}-${i}.jpg">
+            <img src="http://www.juliusanghelina.ro/images/photography/${category}/photographer-${category}-${i}.jpg">
             <div class="text">JuliusAnghelina.ro</div>
         </div>
         `;

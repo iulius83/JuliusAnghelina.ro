@@ -1,12 +1,23 @@
 <html>
     <head>
+        <!-- Global site tag (gtag.js) - Google Analytics -->
+        <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88671631-1"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+        
+          gtag('config', 'UA-88671631-1');
+        </script>
+
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta http-equiv="X-UA-Compatible" content="ie=edge">
         <meta name="description" content="Personal portofolio website - Julius Anghelina" />
+        <meta property='og:image' content='http://www.juliusanghelina.ro/images/front-page/code.jpg' />
         <meta name="keywords" content="3d design, javascript, photography, portofolio, web development" />
         <meta name="author" content="Julius Anghelina" />
-        <link rel="shortcut icon" type="image/png" href="images/favicon512.png"/>
+        <link rel="shortcut icon" type="image/png" href="http://www.juliusanghelina.ro/images/favicon512.png"/>
         <link href="https://fonts.googleapis.com/css?family=Cutive+Mono|Teko|Titillium+Web" rel="stylesheet">
         <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.2.0/css/all.css" integrity="sha384-hWVjflwFxL6sNzntih27bfxkr27PmbbK/iSvJ+a4+0owXq79v+lsFkW54bOGbiDQ"
             crossorigin="anonymous">

@@ -13,24 +13,24 @@
         <!-- Full-width images with number and caption text -->
         <div class="mySlides design">
             <div class="numbertext">1 / 4</div>
-            <img src="images/design/exhibition-slide2.jpg" style="width:100%">
+            <img src="http://www.juliusanghelina.ro/images/design/exhibition-slide2.jpg" style="width:100%">
             <div class="text">Proposal - Ambiente Frankfurt 2018</div>
         </div>
 
         <div class="mySlides design">
             <div class="numbertext">2 / 4</div>
-            <img src="images/design/exhibition-slide1.jpg" style="width:100%">
+            <img src="http://www.juliusanghelina.ro/images/design/exhibition-slide1.jpg" style="width:100%">
             <div class="text">Proposal - Achema Frankfurt 2018</div>
         </div>
 
         <div class="mySlides design">
             <div class="numbertext">3 / 4</div>
-            <img src="images/design/exhibition-slide3.jpg" style="width:100%">
+            <img src="http://www.juliusanghelina.ro/images/design/exhibition-slide3.jpg" style="width:100%">
             <div class="text">Proposal - Ambiente Frankfurt 2018</div>
         </div>
         <div class="mySlides design">
             <div class="numbertext">4 / 4</div>
-            <img src="images/design/exhibition-slide4.jpg" style="width:100%">
+            <img src="http://www.juliusanghelina.ro/images/design/exhibition-slide4.jpg" style="width:100%">
             <div class="text">Proposal - Ambiente Frankfurt 2018</div>
         </div>
 
@@ -55,11 +55,11 @@
         <p>It all went downhill from there, I learned more and more and moved up in the company to managing the workflow process, generating brainstorming sessions and exploiting my creativity to the maximum. In the inflatables industry you very rarely to almost never see the same thing again. <strong>Every project was a new challenge.</strong></p>
         <p><strong>The workflow is as follows:</strong></p>
         <div class="inflatables-workflow">
-            <img src="images/design/inflatables-workflow.jpg">
+            <img src="http://www.juliusanghelina.ro/images/design/inflatables-workflow.jpg">
         </div>
         <hr>
         <div class="guiness">
-            <img src="images/design/sac-ING-23m.jpg" alt="ING Money Sack">
+            <img src="http://www.juliusanghelina.ro/images/design/sac-ING-23m.jpg" alt="ING Money Sack">
             <p>One notable project was a huge money sack built for a promotion by <strong>ING Romania</strong>. We <em>almost</em> made a <strong>Guiness World Record</strong>-high inflatable: <strong>23m in height! That's almost 6 floors up!</strong> I say <em>almost</em> because we only thought to check the record books <em>after</em> the product was delivered - and the record was 25m! <br> <br><strong>Fun Facts:</strong></p>
             <ul>
                 <li>almost <strong>10 km</strong> of raw material used;</li>
@@ -77,33 +77,33 @@
     <div class="splitters">
         <div class="image-spliter">
             <div class="mover"></div>
-            <img class="img-left" src="images/design/inflatables-pombear-render.jpg">
-            <img class="img-right" src="images/design/inflatables-pombear-real.jpg">
+            <img class="img-left" src="http://www.juliusanghelina.ro/images/design/inflatables-pombear-render.jpg">
+            <img class="img-right" src="http://www.juliusanghelina.ro/images/design/inflatables-pombear-real.jpg">
         </div>
         <div class="image-spliter">
             <div class="mover"></div>
-            <img class="img-left" src="images/design/inflatables-trex-real.jpg">
-            <img class="img-right" src="images/design/inflatables-trex-render.jpg">
+            <img class="img-left" src="http://www.juliusanghelina.ro/images/design/inflatables-trex-real.jpg">
+            <img class="img-right" src="http://www.juliusanghelina.ro/images/design/inflatables-trex-render.jpg">
         </div>
         <div class="image-spliter">
             <div class="mover"></div>
-            <img class="img-left" src="images/design/inflatables-cocos-real.jpg">
-            <img class="img-right" src="images/design/inflatables-cocos-render.jpg">
+            <img class="img-left" src="http://www.juliusanghelina.ro/images/design/inflatables-cocos-real.jpg">
+            <img class="img-right" src="http://www.juliusanghelina.ro/images/design/inflatables-cocos-render.jpg">
         </div>
         <div class="image-spliter">
             <div class="mover"></div>
-            <img class="img-left" src="images/design/inflatables-ferrari-real.jpg">
-            <img class="img-right" src="images/design/inflatables-ferrari-render.jpg">
+            <img class="img-left" src="http://www.juliusanghelina.ro/images/design/inflatables-ferrari-real.jpg">
+            <img class="img-right" src="http://www.juliusanghelina.ro/images/design/inflatables-ferrari-render.jpg">
         </div>
         <div class="image-spliter">
             <div class="mover"></div>
-            <img class="img-left" src="images/design/inflatables-goldenbrau-real.jpg">
-            <img class="img-right" src="images/design/inflatables-goldenbrau-render.jpg">
+            <img class="img-left" src="http://www.juliusanghelina.ro/images/design/inflatables-goldenbrau-real.jpg">
+            <img class="img-right" src="http://www.juliusanghelina.ro/images/design/inflatables-goldenbrau-render.jpg">
         </div>
         <div class="image-spliter">
             <div class="mover"></div>
-            <img class="img-left" src="images/design/inflatables-kinder-real.jpg">
-            <img class="img-right" src="images/design/inflatables-kinder-render.jpg">
+            <img class="img-left" src="http://www.juliusanghelina.ro/images/design/inflatables-kinder-real.jpg">
+            <img class="img-right" src="http://www.juliusanghelina.ro/images/design/inflatables-kinder-render.jpg">
         </div>
     </div>
 </div>

@@ -29,9 +29,9 @@ body {
     filter: grayscale(50%);
 }
 
-.design { background-image: url(../images/front-page/3d.jpg) }
-.javascript { background-image:url(../images/front-page/code.jpg) }
-.photography { background-image:url(../images/front-page/world.jpg) }
+.design { background-image: url(http://www.juliusanghelina.ro/images/front-page/3d.jpg) }
+.javascript { background-image:url(http://www.juliusanghelina.ro/images/front-page/code.jpg) }
+.photography { background-image:url(http://www.juliusanghelina.ro/images/front-page/world.jpg) }
 
 /* Flex Items */
 .panel > * {

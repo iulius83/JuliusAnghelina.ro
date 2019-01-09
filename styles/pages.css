@@ -17,7 +17,7 @@
 html {
     -webkit-box-sizing: border-box;
     box-sizing: border-box;
-    background: url(../images/background.png);
+    background: url(http://www.juliusanghelina.ro/images/background.png);
     font-size: 1.2rem;
 }
 
@@ -128,7 +128,7 @@ header {
 }
 
 header.javascript {
-    background: url(../images/front-page/code.jpg) center no-repeat;
+    background: url(http://www.juliusanghelina.ro/images/front-page/code.jpg) center no-repeat;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -136,7 +136,7 @@ header.javascript {
 }
 
 header.design {
-    background: #000 url(../images/design/header-3.jpg) repeat 0 0;
+    background: #000 url(http://www.juliusanghelina.ro/images/design/header-3.jpg) repeat 0 0;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -186,19 +186,19 @@ header.photography {
 }
 
 .slide1 {
-    background: url(../images/photography/abstract/photographer-abstract-16.jpg) no-repeat center;
+    background: url(http://www.juliusanghelina.ro/images/photography/abstract/photographer-abstract-16.jpg) no-repeat center;
     background-size: cover;
 }
 
 .slide2 {
-    background: url(../images/photography/portraits/photographer-portraits-23.jpg) no-repeat center;
+    background: url(http://www.juliusanghelina.ro/images/photography/portraits/photographer-portraits-23.jpg) no-repeat center;
     background-size: cover;
     -webkit-animation-delay: 10s;
     animation-delay: 10s;
 }
 
 .slide3 {
-    background: url(../images/photography/travel/photographer-travel-8.jpg) no-repeat center;
+    background: url(http://www.juliusanghelina.ro/images/photography/travel/photographer-travel-8.jpg) no-repeat center;
     background-size: cover;
     -webkit-animation-delay: 20s;
     animation-delay: 20s;
@@ -226,7 +226,7 @@ header.photography {
 }
 
 header.contact {
-    background: #000 url(../images/photography/header-contact.jpg) repeat 0 0;
+    background: #000 url(http://www.juliusanghelina.ro/images/photography/header-contact.jpg) repeat 0 0;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;

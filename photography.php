@@ -15,7 +15,7 @@
     <section class="photography-links">
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/portraits/photographer-portraits-23.jpg" alt="Portraits">
+                <img src="http://www.juliusanghelina.ro/images/photography/portraits/photographer-portraits-23.jpg" alt="Portraits">
             </div>
             <div class="box-text">
                 <h3>Portraits</h3>
@@ -24,7 +24,7 @@
         </div>
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/travel/photographer-travel-21.jpg" alt="Travel Photography">
+                <img src="http://www.juliusanghelina.ro/images/photography/travel/photographer-travel-21.jpg" alt="Travel Photography">
             </div>
             <div class="box-text">
                 <h3>Around The World</h3>
@@ -33,7 +33,7 @@
         </div>
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/nature/photographer-nature-6.jpg" alt="Nature Photography">
+                <img src="http://www.juliusanghelina.ro/images/photography/nature/photographer-nature-6.jpg" alt="Nature Photography">
             </div>
             <div class="box-text">
                 <h3>Nature Untouched</h3>
@@ -42,7 +42,7 @@
         </div>
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/animals/photographer-animals-3.jpg" alt="Animals Photography">
+                <img src="http://www.juliusanghelina.ro/images/photography/animals/photographer-animals-3.jpg" alt="Animals Photography">
             </div>
             <div class="box-text">
                 <h3>Animal Kingdom</h3>
@@ -51,7 +51,7 @@
         </div>
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/abstract/photographer-abstract-5.jpg" alt="Abstract Photography">
+                <img src="http://www.juliusanghelina.ro/images/photography/abstract/photographer-abstract-5.jpg" alt="Abstract Photography">
             </div>
             <div class="box-text">
                 <h3>Abstract</h3>
@@ -60,7 +60,7 @@
         </div>
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/events/photographer-events-10.jpg" alt="Event Photography">
+                <img src="http://www.juliusanghelina.ro/images/photography/events/photographer-events-10.jpg" alt="Event Photography">
             </div>
             <div class="box-text">
                 <h3>Special Events</h3>
@@ -69,11 +69,11 @@
         </div>
         <div class="box photography">
             <div class="box-image">
-                <img src="images/photography/concert/photographer-concert-4.jpg" alt="Concert Photography">
+                <img src="http://www.juliusanghelina.ro/images/photography/concert/photographer-concert-4.jpg" alt="Concert Photography">
             </div>
             <div class="box-text">
                 <h3>Concert Photography</h3>
-                <a class="button" href="photography/concert.html">View Photos</a>
+                <a class="button" href="http://www.juliusanghelina.ro/photography/concert.html">View Photos</a>
             </div>
         </div>
     </section>
@@ -83,22 +83,22 @@
     <div class="badges">
     <span class="x500px">
             <a href="https://500px.com/iulius2000" target="_blank">
-                <img src="images/photography/500px-logo.png" alt="Julius's 500px Profile" />
+                <img src="http://www.juliusanghelina.ro/images/photography/500px-logo.png" alt="Julius's 500px Profile" />
             </a>
         </span>
         <span class="shutterstock">
             <a href="https://www.shutterstock.com/g/julius%20anghelina" target="_blank">
-                <img src="images/photography/shutterstock-logo.png" alt="Julius's Shutterstock Account" />
+                <img src="http://www.juliusanghelina.ro/images/photography/shutterstock-logo.png" alt="Julius's Shutterstock Account" />
             </a>
         </span>
         <span class="dreamstime">
             <a href="https://www.dreamstime.com/iulius2000_info" target="_blank">
-                <img src="images/photography/dreamstime-logo.png" alt="Julius's Dreamstime Account" />
+                <img src="http://www.juliusanghelina.ro/images/photography/dreamstime-logo.png" alt="Julius's Dreamstime Account" />
             </a>
         </span>
         <span class="adobe-stock">
             <a href="https://stock.adobe.com/fr/contributor/206837651/Julius" target="_blank">
-                <img src="images/photography/adobe_stock-logo.png" alt="Julius's Adobe Stock Account" />
+                <img src="http://www.juliusanghelina.ro/images/photography/adobe_stock-logo.png" alt="Julius's Adobe Stock Account" />
             </a>
         </span>
         

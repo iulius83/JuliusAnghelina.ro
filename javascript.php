@@ -21,11 +21,10 @@
         </div>
         <p>Here are more projects, hover to see links for online versions or code on CodePen (where available):</p>
     </div>
-
     <section class="project-links">
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/cash.png" alt="Johnny Cash Tribute">
+                <img src="http://www.juliusanghelina.ro/images/javascript/cash.png" alt="Johnny Cash Tribute">
             </div>
             <div class="box-text">
                 <h3>Johnny Cash tribute</h3>
@@ -38,7 +37,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/bookmarks.png" alt="Bookmarking">
+                <img src="http://www.juliusanghelina.ro/images/javascript/bookmarks.png" alt="Bookmarking">
             </div>
             <div class="box-text">
                 <h3>Bookmarking page</h3>
@@ -50,7 +49,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/css-grid.png" alt="CSS Grid">
+                <img src="http://www.juliusanghelina.ro/images/javascript/css-grid.png" alt="CSS Grid">
             </div>
             <div class="box-text">
                 <h3>using CSS Grid</h3>
@@ -62,7 +61,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/movie-info.png" alt="Movie info page">
+                <img src="http://www.juliusanghelina.ro/images/javascript/movie-info.png" alt="Movie info page">
             </div>
             <div class="box-text">
                 <h3>Movie info page</h3>
@@ -76,7 +75,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/catalog.jpg" alt="Catalog Elevi">
+                <img src="http://www.juliusanghelina.ro/images/javascript/catalog.jpg" alt="Catalog Elevi">
             </div>
             <div class="box-text">
                 <h3>Student Catalog</h3>
@@ -89,7 +88,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/drumkit.jpg" alt="JS Drums">
+                <img src="http://www.juliusanghelina.ro/images/javascript/drumkit.jpg" alt="JS Drums">
             </div>
             <div class="box-text">
                 <h3>JS Drums</h3>
@@ -101,7 +100,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/phone-book.jpg" alt="Phone Book">
+                <img src="http://www.juliusanghelina.ro/images/javascript/phone-book.jpg" alt="Phone Book">
             </div>
             <div class="box-text">
                 <h3>Forget-book</h3>
@@ -114,7 +113,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/weather.jpg" alt="Weather">
+                <img src="http://www.juliusanghelina.ro/images/javascript/weather.jpg" alt="Weather">
             </div>
             <div class="box-text">
                 <h3>Weather Forecast</h3>
@@ -127,7 +126,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/meniu.jpg" alt="Restaurant Menu">
+                <img src="http://www.juliusanghelina.ro/images/javascript/meniu.jpg" alt="Restaurant Menu">
             </div>
             <div class="box-text">
                 <h3>Restaurant Menu</h3>
@@ -139,7 +138,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/online-store.jpg" alt="Online Store">
+                <img src="http://www.juliusanghelina.ro/images/javascript/online-store.jpg" alt="Online Store">
             </div>
             <div class="box-text">
                 <h3>Online Store</h3>
@@ -153,7 +152,7 @@
         </div>
         <div class="box">
             <div class="box-image">
-                <img src="images/javascript/monty-hall.jpg" alt="Monty Hall Game">
+                <img src="http://www.juliusanghelina.ro/images/javascript/monty-hall.jpg" alt="Monty Hall Game">
             </div>
             <div class="box-text">
                 <h3>Monty Hall game</h3>
@@ -169,7 +168,7 @@
     <div class="badges">
         <span class="github">
             <a href="https://github.com/iulius83" target="_blank">
-                <img src="images/GitHub_Logo.png" alt="Julius's GitHub Profile" />
+                <img src="http://www.juliusanghelina.ro/images/GitHub_Logo.png" alt="Julius's GitHub Profile" />
             </a>
         </span>
         <span class="dev">
@@ -179,7 +178,7 @@
         </span>
         <span class="codepen">
             <a href="https://codepen.io/iulius2000/" target="_blank">
-                <img src="images/codepen-logo.png" alt="Julius's CodePen Profile" />
+                <img src="http://www.juliusanghelina.ro/images/codepen-logo.png" alt="Julius's CodePen Profile" />
             </a>
         </span>
     </div>
