@@ -9,16 +9,13 @@ function toggleActive(e) {
     if (e.propertyName.includes('flex')) {
         this.classList.toggle('open-active');
     }
-    addEvent(this.classList[1]);
+    setTimeout(() => {
+        window.location.href = `${this.classList[1]}.php`;
+    }, 1300);
 }
 
 panels.forEach(panel => panel.addEventListener('click', toggleOpen));
 panels.forEach(panel => panel.addEventListener('transitionend', toggleActive));
-
-function addEvent(filename) {
-    let pageRedirect = () => window.location.href = `${filename}.php`;
-    document.querySelector('.open-active .main-title').addEventListener('click', pageRedirect);
-}
 
 // generate the header -------------
 function whereAmI() {
